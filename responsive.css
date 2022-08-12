@@ -1,0 +1,149 @@
+@media screen and (max-width:896px){
+.header２-link{
+    display: none;
+    
+}
+header{
+    width: 90%;
+}
+.main-all10{
+    max-width: 800px;
+}
+.main-crin{
+    width: 90%;
+}
+.news1{
+    text-align: center;
+    width: 47%;
+
+}
+.story{
+    width: 95%;
+    margin: 130px auto;
+
+}
+.option1{
+    position: relative;
+}
+.option-meni{
+    padding: 10px;
+    position: absolute;
+    background: white;
+    left: 50%;
+    right: 0;
+}
+.option1 a{
+    width: 95%;
+    margin: 0 auto;
+
+}
+.point2{
+width: 95%;
+margin: 0 auto;
+}
+.acces{
+    display: block;
+}
+.acces1{
+    margin: 0 auto 20px auto;
+    text-align: center;
+    
+}
+.footer-inf{
+    width: 80%;
+    margin: 0 auto;
+}
+.fu1{
+    list-style: none;
+}
+}
+
+
+
+@media screen and (max-width:480px){
+.main-all10{
+    max-width: 95%;
+    margin: 0 auto;
+}
+header{
+    width: 80%;
+}
+.maorq{
+    display: block;
+}
+.maorq-all {
+    width: 100%;
+    margin: 0;
+}
+.main-all img{
+    width: 100%;
+}
+.main-all h1{
+    font-size: 10px;
+}
+.news1{
+    width: 100%;
+}
+.story{
+    display: block;
+    text-align: center;
+}
+.story img{
+    width: 100%;
+}
+.story-all {
+padding: 0 ; 
+width:100% ;
+}
+.people{
+    display: block;
+    text-align: center;
+}
+.people img{
+    width: 100%;
+}
+.people-all {
+padding: 0 ; 
+width:100% ;
+}
+.yes-img{
+    display: none;
+}
+.no-img{
+    display: block;
+    width: 100%;
+}
+.option-meni{
+    width: 100%;
+    position: relative;
+    left: 0;
+    margin-left:0 ;
+}
+.ul1{
+    list-style:decimal;
+    display: block;
+    text-align: start;
+}
+.ul1 li{
+    font-size: 8px;
+    display: block;
+    padding:10px 0 ;
+    border-bottom: 1px solid #594f23;
+}
+.footer-inf{
+    width: 95%;
+    margin: 0 auto;
+}
+.option1{
+    display: block;
+}
+.no-deta{
+    display: block;
+}
+.yes-deta{
+    display: none;
+}
+.a22{
+    right: 25%;
+}
+}
